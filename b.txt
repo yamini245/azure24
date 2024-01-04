@@ -1,7 +1,1 @@
-first line in b.txt
-
-
-
-
-ls
-
+second line in b.txt
